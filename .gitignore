@@ -1,0 +1,4 @@
+# Todos los archivos que desee ignorar
+node_modules/
+
+/salida/*.txt
